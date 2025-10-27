@@ -1,4 +1,4 @@
 # Laravel
 This is my First Repository
 <br>
-Author Rehan Saingle
+<b>Author</b>: Rehan Saingle
